@@ -1,0 +1,14 @@
+.category .flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(96, 147, 199);
+  justify-content: center;
+}
+
+.category .flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+
+}
